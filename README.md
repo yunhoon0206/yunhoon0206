@@ -1,4 +1,8 @@
 ﻿# 윤훈의 GitHub Study
+ ## Algorithm
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gns6088)](https://solved.ac/profile/gns6088)
+
 
 ## Tech Stack
 
