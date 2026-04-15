@@ -54,19 +54,12 @@
 - `pandas` 기반 CSV / Excel 데이터 가공
 - 문자열 분리, 컬럼 정리, 재료 데이터 전처리 경험
 
-관련 파일:
-- [python/2학년2학기/api.py](./python/2학년2학기/api.py)
-- [python/2학년2학기/split_csv_by_comma.py](./python/2학년2학기/split_csv_by_comma.py)
-
 ### Frontend
 
 - React 19 + Vite 개발 환경 구성
 - 컴포넌트 구조와 상태 관리 기초 학습
 - HTML / CSS 기반 이력서 및 포트폴리오 페이지 제작
 
-관련 파일:
-- [myApp/package.json](./myApp/package.json)
-- [MyResume/index.html](./MyResume/index.html)
 
 ### Database / SQL
 
@@ -74,8 +67,6 @@
 - 정규화, 관계 모델링, JDBC 연결 실습
 - 수업 단위 SQL 스크립트 및 모델링 파일 정리
 
-관련 파일:
-- [sql/jdbcBackend.sql](./sql/jdbcBackend.sql)
 
 ## Featured Work
 
@@ -90,16 +81,12 @@ Java Servlet / JSP / MVC / JDBC 기반의 푸드 플랫폼 프로젝트입니다
 - 레시피 상세 정보 파싱 및 조리 시간 추정 로직
 - 냉장고 재료 비교 및 관리 기능
 
-관련 문서:
-- [FoodPage/README.md](./FoodPage/README.md)
 
 ### 2. Linux Monitor Practice
 
 C와 `ncurses`를 사용해 터미널 기반 시스템 모니터를 구현했습니다.  
 CPU, 메모리, 프로세스 상태를 출력하고 정렬, 선택, 시그널 전송까지 다루는 구조를 실습했습니다.
 
-관련 파일:
-- [linux/main.c](./linux/main.c)
 
 ## Study Keywords
 
