@@ -39,8 +39,6 @@
 - DAO / DTO 분리와 게시판, 회원, DB 연동 구조 연습
 - Tomcat 기반 Java Web 프로젝트 구성 경험
 
-관련 학습 정리:
-- [java/Java_백엔드_학습정리.md](./java/Java_백엔드_학습정리.md)
 
 ### Linux System Programming
 
@@ -49,8 +47,6 @@
 - `ncurses`를 활용한 터미널 기반 시스템 모니터 구현
 - 프로세스 목록, CPU/메모리 사용량 시각화 실습
 
-관련 학습 정리:
-- [linux/리눅스_파일처리_학습정리.md](./linux/리눅스_파일처리_학습정리.md)
 
 ### Python Data Work
 
